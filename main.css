@@ -1,0 +1,26 @@
+body {
+    background-color: whitesmoke;
+}
+
+h1 {
+    font-family: monospace;
+    font-size: 48px;
+    color: dimgray;
+}
+
+canvas {
+    padding: 0;
+    margin: auto;
+    display: block;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: absolute;
+    background-color: darkseagreen;
+    border: 1px solid darkgrey;
+}
+
+#page-title {
+    text-align: center;
+}
